@@ -5,7 +5,7 @@
 
 ---
 
-## 🗓️ Gantt Chart (Mermaid)
+## 🗓️ Gantt Chart (Mermaid) plan from 12 to 24 January 2026
 
 ```mermaid
 %%{init: { 'theme': 'neutral', 'themeVariables': { 'background': '#ffffff', 'mainBkg': '#ffffff', 'primaryColor': '#4A90D9', 'primaryTextColor': '#000000', 'primaryBorderColor': '#2c5f8a', 'lineColor': '#2c3e50', 'secondaryColor': '#27ae60', 'tertiaryColor': '#8e44ad', 'taskTextColor': '#000000', 'taskTextOutsideColor': '#000000', 'taskTextLightColor': '#000000', 'sectionBkgColor': '#ddeeff', 'altSectionBkgColor': '#eef6ff', 'gridColor': '#bdc3c7', 'titleColor': '#2c3e50', 'doneTaskBkgColor': '#7fb3d3', 'doneTaskBorderColor': '#2980b9', 'activeTaskBkgColor': '#f39c12', 'activeTaskBorderColor': '#d68910', 'edgeLabelBackground': '#ffffff', 'clusterBkg': '#ffffff' } } }%%
