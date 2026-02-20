@@ -8,7 +8,7 @@
 ## 🗓️ Gantt Chart (Mermaid)
 
 ```mermaid
-%%{init: { 'theme': 'base', 'themeVariables': { 'primaryColor': '#4A90D9', 'primaryTextColor': '#fff', 'primaryBorderColor': '#2c5f8a', 'secondaryColor': '#27ae60', 'tertiaryColor': '#8e44ad', 'critBorderColor': '#e67e22', 'critBkgColor': '#e67e22', 'doneTaskBkgColor': '#95a5a6', 'doneTaskBorderColor': '#7f8c8d', 'activeTaskBkgColor': '#f39c12', 'activeTaskBorderColor': '#d68910', 'taskTextColor': '#ffffff', 'taskTextOutsideColor': '#333333', 'taskTextLightColor': '#ffffff', 'sectionBkgColor': '#eaf4fb', 'altSectionBkgColor': '#fdfefe', 'gridColor': '#bdc3c7', 'titleColor': '#2c3e50' } } }%%
+%%{init: { 'theme': 'base', 'themeVariables': { 'primaryColor': '#4A90D9', 'primaryTextColor': '#fff', 'primaryBorderColor': '#2c5f8a', 'secondaryColor': '#27ae60', 'tertiaryColor': '#8e44ad', 'critBorderColor': '#e67e22', 'critBkgColor': '#e67e22', 'doneTaskBkgColor': '#95a5a6', 'doneTaskBorderColor': '#7f8c8d', 'activeTaskBkgColor': '#f39c12', 'activeTaskBorderColor': '#d68910', 'taskTextColor': '#000000', 'taskTextOutsideColor': '#000000', 'taskTextLightColor': '#000000', 'sectionBkgColor': '#eaf4fb', 'altSectionBkgColor': '#fdfefe', 'gridColor': '#bdc3c7', 'titleColor': '#2c3e50' } } }%%
 gantt
     title SSID Platform — Scrum Gantt (4 Sprints)
     dateFormat YYYY-MM-DD
