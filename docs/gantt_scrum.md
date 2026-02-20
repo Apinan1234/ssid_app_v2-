@@ -1,7 +1,7 @@
 # 📅 Gantt Scrum Chart — SSID Platform (ssid_app_v2)
 
 **Course:** Mobile Application Development  
-**Team:** Aphinan (66112772) · Fasai (66126467) · Trirudee (66120361)
+**Team:** Apinan (66112772) · Fasai (66126467) · Teeruthai (66120361)
 
 ---
 
