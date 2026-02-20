@@ -73,13 +73,13 @@ gantt
 | 15 | Instructor Dashboard | Fasai | 3 | ✅ Done |
 | 16 | Instructor Profile Screen | Fasai | 3 | ✅ Done |
 | 17 | CRUD Sync Testing | Trirudee | 3 | ✅ Done |
-| 18 | Unit Tests (Database) | Aphinan | 4 | ⬜ Todo |
+| 18 | Unit Tests (Database) | Aphinan | 4 | ✅ Done |
 | 19 | Architecture Diagram | Aphinan | 4 | ⬜ Todo |
-| 20 | Screenshots All Screens | Fasai | 4 | ⬜ Todo |
-| 21 | Demo Video (3-5 min) | Fasai | 4 | ⬜ Todo |
+| 20 | Screenshots All Screens | Fasai | 4 | ✅ Done |
+| 21 | Demo Video (3-5 min) | Fasai | 4 | ✅ Done |
 | 22 | Final Report (.md) | Trirudee | 4 | ⬜ Todo |
 | 23 | Presentation Slides | Trirudee | 4 | ⬜ Todo |
-| 24 | GitHub README.md | Trirudee | 4 | ✅ Done |
+| 24 | GitHub README.md | Trirudee | 4 | ⬜ Todo |
 | 25 | GitHub Push | Aphinan | 4 | ✅ Done |
 
 ---
